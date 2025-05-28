@@ -1,7 +1,7 @@
 import React, { useEffect, useRef, useState } from 'react';
 import './Carousel.css';
 import fimg1 from '../image/fimg1.jpg';
-import fimg2 from '../image/fimg2copy.jpg';
+import fimg2 from '../image/fimg2copy.JPG';
 import fimg3 from '../image/fimg3.jpg';
 import fimg4 from '../image/fimg4.jpg';
 import photomusic from '../audio/photomusic.mp3';
